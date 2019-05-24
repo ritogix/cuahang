@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0px;
+	padding: 0px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.login
+{
+	width: 100%;
+  	font-size: 12px;
+}
+.login a:hover
+{
+	color:#006;
+}
+.table
+{
+	margin:10px auto;
+}
+.menungang a
+{
+	float:left;
+	height:27px;
+}
+.menungang input[type=text]
+{
+	border:2px #000000 solid;
+	width:280px;
+	height:22px;
+	padding:0px;
+}
+.menungang input[type=submit]
+{
+	background:url(../Image/TimKiem.gif);
+	width:30px;
+	height:23px;
+	float:right;	
+}
+.tdmenu
+{
+	color:#FFF;
+	background-color:#00C;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;
+}
+.nemungangMH
+{
+	border:1px #0066FF solid;
+	border-top:0px;
+	font-size:15px;
+}
+.nemungangMH a:hover
+{
+	color:#3F0;
+}
+.nd
+{
+	border:1px #0000FF solid;
+}

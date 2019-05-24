@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.thongtin td
+{
+	border:#691ED3 1px solid;
+	border-right:0px;
+}
+#cuoi
+{
+	border-right:#691ED3 1px solid;
+}
+.thongtinnd td
+{
+	border:#691ED3 1px solid;
+	border-right:0px;
+	border-top:0px;
+}
+body
+{
+	background:url(../Image/dathang.jpg);
+}
+table
+{
+	background:#FBFBFB;
+}

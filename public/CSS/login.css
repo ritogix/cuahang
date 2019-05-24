@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background:url(../Image/LoginBackground.jpg); 
+	font-family: 'Roboto', sans-serif;
+}
+.login-card 
+{
+  padding: 40px;
+  width: 400px;
+  background-color: #F7F7F7;
+  margin: 0 auto 10px;
+  border-radius: 2px;
+}
+.login-card h1 
+{
+  font-weight: 100;
+  text-align: center;
+  font-size: 2.3em;
+  color:#039;
+}
+.login-card input[type=submit] 
+{
+  width: 100%;
+  display: block;
+  margin-bottom: 10px;
+  position: relative;
+}
+.login-card input[type=text], input[type=password] 
+{
+  height: 44px;
+  font-size: 16px;
+  width: 100%;
+  margin-bottom: 10px;
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  padding: 0 8px;
+}
+.login-card input[type=text]:hover, input[type=password]:hover 
+{
+  border: 1px solid #b9b9b9;
+  border-top: 1px solid #a0a0a0;
+}
+.login-submit
+{
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Arial', sans-serif;
+	height: 36px;
+	padding: 0 8px;
+	border: 0px;
+	color: #fff;
+	background-color: #4d90fe;
+}
+.login-submit:hover 
+{
+  border: 0px;
+  background-color: #357ae8;
+}
+.login-help 
+{
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+}
+.login-help a:hover 
+{
+	color:#006;
+}
